@@ -8,3 +8,5 @@ function fun2(){
   console.log('fun2')
 }
 
+这是temp
+
